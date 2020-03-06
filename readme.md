@@ -1,6 +1,13 @@
 # 史德凯的枯燥生活
-```html
-<p>hello欢迎进入我的第一个博客</p>
+`<p>hello欢迎进入我的第一个博客</p>`
+```java
+public class HUGO
+{
+    public static void main(String[] args)
+    {
+            System.out.println("hugo就是垃圾")
+    }
+}
 ```
 ![看向窗外缓解下眼疲劳](dd.jpg)
 我的喜好
